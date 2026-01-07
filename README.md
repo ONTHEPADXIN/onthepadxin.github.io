@@ -1,40 +1,42 @@
+
+We've developed several useful and free apps; here's a description.
+
+OCRNote
+
+Completely free!
+
+Tired of manually typing text from paper documents or images? OCRNote is your efficient assistant. 
+
+• Powerful offline text recognition: Leveraging Google ML Kit technology, it quickly and accurately recognizes text in images without an internet connection. Perfectly supports multiple languages ​​including Chinese, English, Japanese, Korean, Latin, and Sanskrit.
+
+• Flexible text acquisition methods: Capture text instantly from documents, books, or screens by taking a photo, or extract text from any page on your phone in real time by screen recording.
+
+• Translation of over 100 languages: With a powerful built-in translation engine, it supports mutual translation of over 100 languages, making it a powerful assistant for your studies, work, and travel.
+
+• Efficient information management: Recognized and translated text can be easily copied, shared, or saved within the app. Even more uniquely, you can organize related text snippets into mind maps to build a clear knowledge system. Supports exporting text and JSON files.
+
+------------------------------------------------------------------------------------
+
 Micropping - Video editing, video to image/GIF/subtitle, screen recording, file transfer
 
-It is a small but powerful and easy-to-use APP, which supports video editing, video to image/GIF, video segmentation, subtitle capture and splicing in video, screen recording, and supports file transfer between mobile phones and computers under wifi.
+The main purpose is to edit videos/images using your mobile phone, and then transfer files and share text content between your phone and computer over the same Wi-Fi network.
 
-Free & no watermark!
-🔥Main functions:
+Free & Watermark-Free!
 
-【Video editing】Watermark-free video editing and compression, support preview of each frame of the video, 🔥Edit accurately to each frame; video size, cropping time accurate setting.
+Main Features:
 
-【Video format】Support MP4, MOV, M4V, MKV, WMV, RMVB, FLV, AVI, 3GP, etc.
+1. Video editing: Supports adding images, GIF stickers, setting various sticker animations, and intelligent frame interpolation to ensure smooth animation.
 
-【Video cropping】Multiple video ratios 1:1, 16:9, 3:4...Support canvas zoom adjustment ratio; cropping area setting accurate to 1 pixel.
+2. Supports simple image/GIF editing.
 
-【Video mirror】Mirror flip video, support up and down/left and right 90° rotation of video.
+3. Supports video to image/GIF conversion, video splitting, and subtitle extraction and splicing from videos.
 
-【Video segmentation】Supports average segmentation by time and number, and also supports custom time segmentation.
+4. Supports file transfer between your phone and computer over Wi-Fi, downloading all videos and images to your computer.
 
-【Video subtitles】Support horizontal and vertical subtitle capture, and then splice into pictures; support custom selection of subtitle area.
+5. Supports screen recording, and allows your computer browser to control the start and end of recording via local service, and adjust the recording button transparency for unobstructed recording.
 
-【Screen recording】Supports horizontal and vertical screen recording, and can set the video size and recorded screen area.
+6. All your creations are saved on your phone; no data is uploaded. They are displayed on your "My" page, and you can copy or move them to your phone's photo album, delete them, etc.
 
-【Video to picture】Supports capturing each frame of the video, and can set the cropping area, size, picture quality, etc.
 
-【Video to GIF】Supports video to GIF, supports GIF playback speed setting, pixel-accurate size setting, 🔥Supports GIF reverse playback.
 
-【Mobile local service】🔥Under the same Wifi, access the local service of the mobile phone through the computer browser, support file upload and download between mobile phone and computer, and clipboard content transfer. And you can also control the screen recording and floating window transparency of the mobile phone through the browser.
-
-【No watermark】🔥Micropping will never add watermarks to your videos, and there will be no interfering ads on the screen when you operate.
-
-【My works】All your works are displayed on my page, saved locally, and can be copied or moved to the mobile phone album, deleted, etc.
-
-【Settings】Support multiple languages, switch at any time; support horizontal and vertical screen switching; support LIGHT and DARK theme modes, etc.
-
-【Preview】Support video, GIF, and picture preview for easy viewing.
-
-【Share】Share videos to social media apps anytime, anywhere.
-
-【Others】Continuously updated. . .
-
-If you have any suggestions or questions about Micropping, please email me: onthepadxin@gmail.com
+If you have any suggestions or questions about the apps listed above, please email me: onthepadxin@gmail.com
