@@ -1,7 +1,33 @@
 
 We've developed several useful and free apps; here's a description.
 
-OCRNote
+## ColorSip
+
+Completely free!
+
+ColorSip is a lightweight screen color picker for designers, developers, and anyone who needs to capture exact colors from the screen.
+
+Start screen color picking, grant screen recording permission, and use the floating picker to sample colors from apps, images, web pages, documents, or paused video frames. The sampling panel helps you inspect the target area and read color values clearly.
+
+Key features:
+
+- Pick colors from anywhere on the screen
+- View color values in HEX, RGB, HSV, and CMYK formats
+- Copy color values to the clipboard
+- Save colors to history for later reference
+- Use a floating picker that stays available while you work
+- Supports portrait and landscape screen changes
+- Includes an alpha value reference list for quick opacity conversion
+
+ColorSip is useful when matching UI colors, collecting palette references, checking image colors, recording design inspiration, or converting a color into developer-friendly formats.
+
+The floating picker is designed to stay out of the way. When you are not sampling, only the small anchor remains touchable, so normal screen taps are not blocked. You can close the picker at any time to stop the screen picking service and remove the floating window.
+
+ColorSip focuses on simple, accurate, and fast color capture without a heavy workflow.
+
+------------------------------------------------------------------------------------
+
+## OCRNote
 
 Completely free!
 
@@ -17,7 +43,7 @@ Tired of manually typing text from paper documents or images? OCRNote is your ef
 
 ------------------------------------------------------------------------------------
 
-Micropping - Video editing, video to image/GIF/subtitle, screen recording, file transfer
+## Micropping - Video editing, video to image/GIF/subtitle, screen recording, file transfer
 
 The main purpose is to edit videos/images using your mobile phone, and then transfer files and share text content between your phone and computer over the same Wi-Fi network.
 
