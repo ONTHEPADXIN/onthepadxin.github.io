@@ -1,6 +1,37 @@
 
 We've developed several useful and free apps; here's a description.
 
+## AirCam
+
+AirCam is a local-network screen preview and video management tool for Android devices. It helps trusted devices on the same Wi-Fi network connect to each other, view a live screen preview, browse local videos, and manage screen recordings saved by the app.
+
+Completely free!
+
+Main features:
+
+- Local Wi-Fi connection: Pair another device with a QR code instead of manually typing the service address and account details.
+- WebRTC live preview: View another device's screen on the same Wi-Fi network with low latency.
+- Local video browsing: Browse videos stored on this phone and recordings created by the app.
+- Screen recording save: When screen capture is enabled by the user, the app can save recordings as local video files.
+- Recording file management: Organize recordings by date, then view, play, download, or delete them.
+- Browser access: Start the HTTP service and use a browser on the same Wi-Fi network to access the web interface.
+- Native remote access: Connect from another Android device inside the app to view WebRTC preview and remote video lists.
+- Account authentication: HTTP and remote access use username and password authentication. QR codes can carry connection details for easier pairing.
+
+Use cases:
+
+- Use an old phone as a local-network screen preview device.
+- View phone recordings or local videos from a computer browser.
+- Connect multiple trusted Android devices on the same Wi-Fi network.
+- Preview screens during development, demonstrations, or local home-network use.
+
+Privacy and safety:
+
+AirCam does not provide a cloud relay service. Live preview, video browsing, and recording access are designed for devices on the same Wi-Fi network. Permissions such as screen capture, microphone, local video access, and camera scanning are used only for related features and require user authorization.
+
+Only use this app with devices and content that you own or are allowed to access. Do not use AirCam for unauthorized monitoring, recording, or access to another person's content.
+
+
 ## ColorSip
 
 Completely free!
